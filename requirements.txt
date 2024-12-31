@@ -1,0 +1,6 @@
+aiogram>=2.15.0
+requests
+PyYAML
+bs4
+sqlalchemy>=1.4.0
+aiosqlite>=0.17.0
